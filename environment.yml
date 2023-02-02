@@ -1,0 +1,7 @@
+name: comp30680
+channels:
+  - defaults
+dependencies:
+  - python
+  - scikit-learn
+prefix: /Users/jingao/opt/anaconda3/envs/comp30680
