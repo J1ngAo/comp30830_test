@@ -3,5 +3,6 @@ channels:
   - defaults
 dependencies:
   - python
+  - keras
   - scikit-learn
 prefix: /Users/jingao/opt/anaconda3/envs/comp30680
