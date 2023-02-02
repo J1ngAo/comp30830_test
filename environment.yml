@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python
-  - keras
   - scikit-learn
+  - pandas
+  - jupyterlab
 prefix: /Users/jingao/opt/anaconda3/envs/comp30680
